@@ -2,9 +2,10 @@ package edu.undf.fj21tarefas;
 
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.SpringBootConfiguration;
 
-@SpringBootConfiguration
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
 public class Main {
     public static void main(String[] args) {
 
